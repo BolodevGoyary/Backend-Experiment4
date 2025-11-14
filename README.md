@@ -21,8 +21,8 @@ Put all files in:
 MAMP: /Applications/MAMP/htdocs/experiment4
 
 Files:
-db_connect.php
-display_posts.php
+- db_connect.php
+- display_posts.php
 
 ### 3. Run
 MAMP:
